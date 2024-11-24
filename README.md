@@ -73,7 +73,3 @@ The app leverages the following libraries:
 - **React Native Reanimated**: For creating animations.
 - **Expo Vector Icons**: For using a wide range of vector icons.
 - **Lodash**: For utility functions and data manipulation.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
