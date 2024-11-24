@@ -6,10 +6,14 @@ A React Native application to track and visualize your daily moods, providing in
 
 - **Mood Tracking**: Record your daily mood with a user-friendly interface.
 - **Statistics Dashboard**: Visualize your mood patterns with charts.
-- **Customizable Themes**: Switch between light and dark modes.
 - **Multi-platform Support**: Compatible with both iOS and Android.
 
 ## Screenshots
+   <img width="200" alt="skia" src="/screenshoot/Screenshot_1732376390.png">&nbsp;&nbsp;&nbsp;
+   <img width="200" alt="skia" src="/screenshoot/Screenshot_1732376391.png">&nbsp;&nbsp;&nbsp;
+   <img width="200" alt="skia" src="/screenshoot/Screenshot_1732376393.png">&nbsp;&nbsp;&nbsp;
+   <img width="200" alt="skia" src="/screenshoot/Screenshot_1732376419.png">&nbsp;&nbsp;&nbsp;
+
 
 ## Installation
 
